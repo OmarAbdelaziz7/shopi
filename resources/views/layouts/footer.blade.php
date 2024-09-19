@@ -13,10 +13,10 @@
                             <strong>Address: </strong>Tetouan Shore
                         </p>
                         <p class="wow fadeIn animated">
-                            <strong>Phone: </strong>+212 682860421
+                            <strong>Phone: </strong>+201021425128
                         </p>
                         <p class="wow fadeIn animated">
-                            <strong>Email: </strong>yusufisawi@gmail.com
+                            <strong>Email: </strong>Omar.Abdelaziz7726@gmail.com
                         </p>
                     </div>
                 </div>
